@@ -1,7 +1,7 @@
-### Hi there 👋
+### Hi there 👋 I'm Sophia
 
 
-**sophie-ndalo/sophie-ndalo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Full-stack Software Developer
 
 Here are some ideas to get you started:
 
