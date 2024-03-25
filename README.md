@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Sophia
 
 
-I am a Full-stack Software Developer
+I am a Full-stack Software Developer and an AI/ML student
 
 - 🔭 I’m currently working on Fullstack React applications with Rails API
 - 🌱 I’m currently learning Python.
